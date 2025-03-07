@@ -10,7 +10,7 @@ Welcome to the **AI/ML Hackathon on Diabetes Detection through Retinopathy**! Th
 Diabetic Retinopathy (DR) is a complication of diabetes that affects the eyes and can lead to vision loss. Your task is to develop an AI model that classifies retinal images into different DR severity levels.
 
 ## 📂 Dataset Details
-
+Download Dataset from link **https://www.kaggle.com/datasets/kushagratandon12/diabetic-retinopathy-balanced/data**
 - **Categories:**
   - No DR (Healthy)
   - Mild DR
